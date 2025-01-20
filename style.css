@@ -216,9 +216,11 @@
         display: flex;
     }
     
-    .slider__item--hidden-laptop {
+    .slider__item--hidden-laptop, .slider__item--hidden {
         display: none;
     }
+
+    
     
   }   
 
