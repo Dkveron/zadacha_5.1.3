@@ -195,6 +195,10 @@
       padding-left: 25px;
     }
 
+    .slider {
+      position: static;
+    }
+
     .slider-controls {
       display: none;
     }
@@ -211,6 +215,7 @@
       gap: 25px;
       padding-left: 25px;
       padding-top: 20px;
+      width: 800px;
     }
 
     .slider__item--hidden-mobile {
@@ -239,9 +244,7 @@
 
     .slider-slides {
       padding-left: 30px;
-    }
-
-    .slider-slides {
+      width: 1150px;
       column-gap: 35px;
     }
 
